@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HegeKol
+- 👋 Hi, I’m HegeK
 - 👀 I’m interested in NYSS
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on ...
